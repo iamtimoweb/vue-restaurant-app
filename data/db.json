@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Mugabi Timothy",
+      "email": "mgbtmth92@gmail.com",
+      "password": "learncode",
+      "id": 1
+    },
+    {
+      "name": "Namyalo Joyce",
+      "email": "joycenamyalo@yahoo.com",
+      "password": "learncode",
+      "id": 2
+    },
+    {
+      "name": "Ddamulira Abubaker",
+      "email": "Ddamulirab37@gmail.com",
+      "password": "learncode2022",
+      "id": 3
+    },
+    {
+      "name": "Mabirizi Godfrey",
+      "email": "mabirizi@gmail.com",
+      "password": "learncode2010",
+      "id": 4
+    },
+    {
+      "name": "majorie",
+      "email": "kaleb.jose@gmail.com",
+      "password": "learncode",
+      "id": 5
+    },
+    {
+      "name": "kato Joseph",
+      "email": "kaleb.jose@gmail.com",
+      "password": "learncode",
+      "id": 6
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Santa Maria",
+      "contact": "0772448890",
+      "address": "Mukono",
+      "id": 1
+    },
+    {
+      "name": "Patron",
+      "contact": "0702048890",
+      "address": "Seeta Mukono",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "contact": "05678987",
+      "address": "kampala",
+      "id": 3
+    },
+    {
+      "name": "Bredo",
+      "contact": "0702707107",
+      "address": "wantoni",
+      "id": 4
+    },
+    {
+      "name": "Kisoboka ",
+      "contact": "0708345678",
+      "address": "Katwe",
+      "id": 5
+    }
+  ]
+}
